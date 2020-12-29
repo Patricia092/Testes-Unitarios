@@ -1,4 +1,4 @@
-# Implementando uma stack de testes de unidade, integrados e TDD em um projeto .NET de Crowdfunding.
+# Implementando uma stack de testes de unidade, integrados e TDD em um projeto .NET de Crowdfunding.</br></br>
   
 Este projeto foi desenvolvido pelos especialistas Eliézer Zarpelão e Marcos Freire para o curso "Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding" do Bootcamp da Digital Innovation One "Decola Dev Avanade 2021" :orange_heart:.</br>
 
