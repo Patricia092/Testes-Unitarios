@@ -1,18 +1,8 @@
-# dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+# Implementando uma stack de testes de unidade, integrados e TDD em um projeto .NET de Crowdfunding.
+  
+Este projeto foi desenvolvido pelos especialistas Eliézer Zarpelão e Marcos Freire para o curso "Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding" do Bootcamp da Digital Innovation One "Decola Dev Avanade 2021" :orange_heart:.</br>
 
-## Digital Innovation One
+Com base no projeto existente foi realizado alterações no teste unitário na parte de doações e também foi realizado alterações no teste automatizado de doações. No teste unitário foi adicionado um novo método para testar as doações caso o usuário aceite pagar taxa, e também foi alterado o método de criar doação para contemplar todo formulário da pagina e preencher todos os campos.
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
 
-## Eliézer Zarpelão
-[GitHub Timeline](https://elizarp.github.io/timeline/)  
-[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
-[Github](https://github.com/elizarp) 
 
-## Marcos Freire
-[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
-[Github](https://github.com/marcosfreire) 
-
-## Slides
-[Slides em PDF](TesteNetCore.pdf)
